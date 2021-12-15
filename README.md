@@ -1,17 +1,7 @@
-# Udacity React Nanodegree (Part 2)
+# Udacity React Nanodegree
 
-## About
+## Course exercises and sample files
 
-This repository is based on the [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) by [Udacity](https://www.udacity.com/) module 2 **React & Redux**
+This repository is based on the [React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019) by [Udacity](https://www.udacity.com/course/react-nanodegree--nd019).
 
-Only exercises and sample files.
-
-### Contents
-
-- Managing State
-- UI + Redux
-- Redux Middleware
-- Redux with React
-- Asynchronous Redux
-- React-Redux
-- Real World Redux
+Contents are based on the first module **React**.
